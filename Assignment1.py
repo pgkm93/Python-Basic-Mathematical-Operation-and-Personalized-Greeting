@@ -29,4 +29,3 @@ last_name = str(input("Enter your second name:"))
 
 #Result as mentioned in the Assignment
 print(f"Hello,'{first_name+last_name}',! Welcome to python program")
-
